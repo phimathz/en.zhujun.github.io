@@ -33,13 +33,15 @@
 - In 2020, a hot-selling T-shirt was launched, which was put on the shelves in February. After May, the monthly sales volume stabilized at 8,000+, the unit price per customer was $19, and the gross profit margin was about 12%; from April to September of the following year, the unit price per customer was increased to $21. Average sales volume is stable at 6,500+, gross profit is about 15%, advertising traffic: natural traffic = 1:3.
 - In October 2021, he developed a new category of women's denim shorts and successfully created a popular link. In May of the following year, he achieved monthly sales of 7,000+, with a unit price of $28 and a gross profit margin of 20%.
 - Tops will be put on the shelves in June 2022, starting in late July, with daily sales reaching 80+.
-### Chengdu Daishi Education Technology Co., Ltd. Junior/high school teacher 2017.03-2017.08 
+### Chengdu Daishi Education Technology Co., Ltd. Junior/high school teacher 2017.03-2019.02
 #### work description:
-- Responsible for teaching mathematics and physics in junior high and high schools
-- Assist the subject leader in writing lesson plans and formulating teaching plans
+- Responsible for teaching mathematics and physics in junior high and high schools.
+- Assist the subject leader in writing lesson plans and formulating teaching plans.
+- Develop the company's market and conduct effective local promotion and inquiry business.
+- Won the third place in the 2017 Elite Training Camp Team Competition of the company's Daishi Education Sichuan and Henan Headquarters.
 ## Skills
-- Excel, Word, Powerpoint 
-- Pyhton
-- Photoshop
-- Worktile, PingCode
-
+- Proficient in Excel, Word, Powerpoint
+- Master basic Photoshop design
+- Master basic Python data analysis
+- Understand the MySQL language and be able to extract and analyze data
+- Master the basic use of Worktile and PingCode
