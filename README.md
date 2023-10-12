@@ -1,4 +1,4 @@
-# zhujun
+# <center> zhujun </center>
 A lifelong learner who is committed to pursuing the depth and breadth of abilities, has a wide range of hobbies and practices.
 Job target: Operations Manager & Operations Supervisor
 ## Educate
