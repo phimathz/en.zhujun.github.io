@@ -38,8 +38,8 @@ Job target: Operations Manager & Operations Supervisor
 - Responsible for teaching mathematics and physics in junior high and high schools
 - Assist the subject leader in writing lesson plans and formulating teaching plans
 ## Skills
-- Python \star\star
-- Excel \star\star\star
-- Photoshop \star\star\
-- Word \star\star
-- Powerpoint \star\star
+- Python $\star\star$
+- Excel $\star\star\star$
+- Photoshop $\star\star\$
+- Word $\star\star$
+- Powerpoint $\star\star$
